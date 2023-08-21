@@ -2,7 +2,7 @@
 
 Blog Post: [BloodHound CE and automating parts of AD pentests](https://www.8com.de/cyber-security-blog/bloodhound-ce-and-automating-parts-of-ad-pentests)
 
-![demo.gif](Demo)
+![Demo](demo.gif)
 
 ## Usage
 
